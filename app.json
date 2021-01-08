@@ -1,0 +1,6 @@
+{
+  "name": "emoji_server",
+  "description": "Simple Node Server for searching emojis",
+  "repository": "https://github.com/hebertcisco/emoji-server",
+  "keywords": ["emoji_server"]
+}
