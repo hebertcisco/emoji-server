@@ -19,28 +19,6 @@ curl --location --request GET 'https://emojiserver.now.sh/'
 
 - ### Get one Emoji
 
-```sh
-curl --location --request GET 'https://emojiserver.now.sh/[title]'
-```
-
-- ### Create one Emoji
-
-```sh
-curl --location --request POST 'https://emojiserver.now.sh/'
-```
-
-- ### Update an Emoji
-
-```sh
-curl --location --request PUT 'https://emojiserver.now.sh/[id]'
-```
-
-- ### Delete an Emoji
-
-```sh
-curl --location --request DELETE 'https://emojiserver.now.sh/[id]'
-```
-
 ## Author
 
 👤 **Hebert F Barros**
